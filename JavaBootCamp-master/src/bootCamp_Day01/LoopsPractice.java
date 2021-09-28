@@ -4,9 +4,9 @@ public class LoopsPractice {
 
     public static void main(String[] args) {
         
-        String str = "Cybertek School";
+        String str = "SumeyseA ";
             //        01234567
-        
+
         String result = "";
         for(int i = str.length()-1 ; i >= 0; i--){
             result += str.charAt(i);
